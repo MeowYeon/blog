@@ -6,25 +6,25 @@ desc: 基于github page的博客管理站点
 desc: 介绍bash/awk/sed/grep脚本使用  
 [shell](https://meowyeon.github.io/blog/shell/)  
 desc: linux命令使用  
-[cpp](https://github.com/MeowYeon/blog/cpp/)  
+[cpp](https://meowyeon.github.io/blog/cpp/)  
 desc: cpp相关语法介绍  
-[golang](https://github.com/MeowYeon/blog/golang/)  
+[golang](https://meowyeon.github.io/blog/golang/)  
 desc: golang相关语法介绍  
-[scala](https://github.com/MeowYeon/blog/scala/)  
+[scala](https://meowyeon.github.io/blog/scala/)  
 desc: scala相关语法介绍  
-[vim](https://github.com/MeowYeon/blog/vim/)  
+[vim](https://meowyeon.github.io/blog/vim/)  
 desc: vim相关使用  
-[network](https://github.com/MeowYeon/blog/network/)  
+[network](https://meowyeon.github.io/blog/network/)  
 desc: 网络相关知识记录  
-[filesystem](https://github.com/MeowYeon/blog/filesystem/)  
+[filesystem](https://meowyeon.github.io/blog/filesystem/)  
 desc: 文件系统相关知识记录  
-[docker](https://github.com/MeowYeon/blog/docker/)  
+[docker](https://meowyeon.github.io/blog/docker/)  
 desc: 容器相关知识记录  
-[graph_database](https://github.com/MeowYeon/blog/graph_database/)  
+[graph_database](https://meowyeon.github.io/blog/graph_database/)  
 desc: 图数据库相关知识记录  
-[performance](https://github.com/MeowYeon/blog/performance/)  
+[performance](https://meowyeon.github.io/blog/performance/)  
 desc: 性能优化相关知识记录  
-[paper](https://github.com/MeowYeon/blog/paper/)  
+[paper](https://meowyeon.github.io/blog/paper/)  
 desc: 论文摘要  
 
 ## TODO
