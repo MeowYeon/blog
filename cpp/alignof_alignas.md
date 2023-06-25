@@ -3,6 +3,7 @@
 直到后来遇到了alignas，无论是用法还是含义都陷入了模糊的状态。  
 
 *BTW. 写的有点啰嗦*
+- [ ] [stackoverflow对alignof/alignas讨论](https://stackoverflow.com/questions/17091382/memory-alignment-how-to-use-alignof-alignas)
 
 ## alignof
 对于编程语言来说，数据类型分为两种：原生数据类型和自定义数据类型。  
