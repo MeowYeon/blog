@@ -4,6 +4,7 @@
 
 *BTW. 写的有点啰嗦*
 - [ ] [stackoverflow对alignof/alignas讨论](https://stackoverflow.com/questions/17091382/memory-alignment-how-to-use-alignof-alignas)
+- [ ] [为什么没有对齐的地址会导致两次以上内存访问](https://stackoverflow.com/questions/3903164/why-misaligned-address-access-incur-2-or-more-accesses)
 
 ## alignof
 对于编程语言来说，数据类型分为两种：原生数据类型和自定义数据类型。  
